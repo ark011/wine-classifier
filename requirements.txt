@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+sklearn
+pandas
+numpy
+pydantic
+typing
+python-multipart
