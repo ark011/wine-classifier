@@ -17,7 +17,7 @@ docker run -p 80:80 wine-classifier
 ```
 ## Test:
 Open POSTMAN, set request to POST and enter 12 float/int values for attributes (fixed acidity, volatile acidity, citric acid, residual sugar
-, chlorides, free sulfurdioxide, total sulfur dioxide, density, pH, sulphates, alcohol, quality, wine_type) into "data" as JSON object
+, chlorides, free sulfurdioxide, total sulfur dioxide, density, pH, sulphates, alcohol, quality, wine_type) into "data" as JSON object <br>
 <a href="https://ibb.co/0jCn8mV"><img src="https://i.ibb.co/gMSrHmF/POSTMAN.png" alt="POSTMAN" border="0"></a>
 
 ## Deployment:
